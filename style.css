@@ -10,7 +10,7 @@
 }
 
 .top-img{
-    background-image: url("imgs/img01.jpg");
+    background-image: url("https://github.com/RBchaser/test-didactic-couscous/blob/master/img01.jpg?raw=true");
     background-size:cover;
     background-attachment: fixed;
 }
