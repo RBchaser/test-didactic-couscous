@@ -34,7 +34,7 @@ nav .fas, nav .far{
     color: #888;
 }
 .night-sky{
-    background-image: url(fix-bg.jpg);
+    background-image: url("https://github.com/RBchaser/test-didactic-couscous/blob/master/fix-bg.jpg?raw=true");
     padding:200px 0;
     text-align: center;
     background-attachment: fixed;
