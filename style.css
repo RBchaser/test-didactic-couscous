@@ -1,7 +1,11 @@
 *{
     margin:0;
     padding:0;
-    color:white;
+    color:;
+}
+
+body {
+	min-width: 1024px;
 }
 
 @font-face{
