@@ -11,7 +11,7 @@ body {
 @font-face{
     font-family: "myfont";
     /*src: url("fonts/odstemplik/odstemplik.otf") format("opentype"),url("fonts/odstemplik/odstemplikBold.otf") format("opentype")*/
-    src: url("https://github.com/RBchaser/test-didactic-couscous/blob/master/odstemplik.otf?raw=true") format("opentype"),url("fonts/odstemplik/odstemplikBold.otf") format("opentype")
+    src: url("https://github.com/RBchaser/test-didactic-couscous/blob/master/odstemplik.otf?raw=true") format("opentype"),url("https://github.com/RBchaser/test-didactic-couscous/blob/master/odstemplikBold.otf?raw=true") format("opentype")
 }
 
 .top-img{
