@@ -4,10 +4,6 @@
     color:pink;
 }
 
-body {
-	min-width: 1024px;
-}
-
 @font-face{
     font-family: "myfont";
     /*src: url("fonts/odstemplik/odstemplik.otf") format("opentype"),url("fonts/odstemplik/odstemplikBold.otf") format("opentype")*/
