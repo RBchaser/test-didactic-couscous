@@ -6,7 +6,7 @@
 
 @font-face{
     font-family: "myfont";
-    src: url("fonts/odstemplik/odstemplik.otf") format("opentype"),url("fonts/odstemplik/odstemplikBold.otf") format("opentype")
+    src: url("odstemplik.otf") format("opentype"),url("odstemplikBold.otf") format("opentype")
     
 }
 
